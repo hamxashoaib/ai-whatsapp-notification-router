@@ -15,9 +15,9 @@ Notification overload is one of the biggest challenges in modern messaging appli
 
 This project provides an **AI-powered notification routing system** that intelligently determines whether a WhatsApp message should:
 
-- 🔔 **Notify** – Important enough to interrupt the user immediately.
-- 📥 **Digest** – Useful information that can be shown later.
-- 🔕 **Mute** – Low-priority, repetitive, promotional, or suspicious content.
+- 🔔 **Notify** - Important enough to interrupt the user immediately.
+- 📥 **Digest** - Useful information that can be shown later.
+- 🔕 **Mute** - Low-priority, repetitive, promotional, or suspicious content.
 
 The system combines deterministic rules with contextual reasoning using Google Gemini, enabling personalized and reliable notification decisions.
 
@@ -297,7 +297,6 @@ AI & Machine Learning Engineer
 - Python
 - Generative AI
 - AI Agents
-- Prompt Engineering
 - Automation
 
 ---
