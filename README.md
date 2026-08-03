@@ -43,32 +43,35 @@ The system combines deterministic rules with contextual reasoning using Google G
 
 ```text
 .
+ai-whatsapp-notification-router/
+│
+├── .env.example
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+│
+├── main.py
+├── config.py
+├── loader.py
+├── features.py
+├── rules.py
+├── retriever.py
+├── prompt_builder.py
+├── reasoner.py
+├── predictor.py
+├── validator.py
+├── multimodal.py
+├── evaluation.py
+│
 ├── dataset/
-│   ├── messages.csv
-│   ├── users.csv
-│   ├── groups.csv
-│   ├── group_members.csv
-│   ├── business_accounts.csv
+│   ├── message_events.csv
 │   ├── user_business_history.csv
 │   ├── message_history.csv
-│   ├── message_events.csv
-│   ├── sample_messages.csv
-│   ├── images.csv
-│   ├── voice_notes.csv
-│   └── output.csv
+│   └── business_accounts.csv
 │
-├── config.py
-├── data_loader.py
-├── predictor.py
-├── reasoner.py
-├── retrieval.py
-├── rules.py
-├── multimodal.py
-├── prompts.py
-├── main.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+└── output-sample/
+    └── output.csv
 ```
 
 ---
