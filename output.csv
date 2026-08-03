@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,notify,payment,Trusted verified bank notification.,0.97,message_0102;message_0243;message_0101
+msg_091,mute,scam,Possible phishing or scam message.,1.0,message_0238;message_0381
+msg_090,digest,personal,Normal message.,0.8,none
+msg_048,notify,urgent,Urgent message requiring immediate attention.,0.98,message_0237;message_0099;message_0151
+msg_040,mute,forward,Frequently forwarded message.,0.78,message_0136;message_0259;message_0135
+msg_075,digest,business_update,Verified business update.,0.98,message_0206;message_0205
+msg_005,digest,personal,Normal message.,0.78,message_0049;message_0095;message_0390
+msg_104,digest,personal,User usually dismisses notifications.,0.7,message_0232;message_0050;message_0335
+msg_069,mute,forward,Frequently forwarded message.,0.81,message_0177;message_0194;message_0042
+msg_107,mute,scam,Possible phishing or scam message.,1.0,message_0213;message_0196;message_0174
+msg_070,mute,scam,Possible phishing or scam message.,1.0,message_0213;message_0199;message_0196
+msg_003,digest,business_update,Verified business update.,0.98,message_0400;message_0031;message_0267
+msg_099,digest,personal,Normal message.,0.83,message_0118;message_0055;message_0227
+msg_008,digest,personal,User usually dismisses notifications.,0.8,message_0296;message_0071;message_0072
+msg_092,digest,personal,User usually dismisses notifications.,0.83,none
+msg_060,mute,promotion,User frequently reports similar messages.,0.98,message_0175;message_0404;message_0284
+msg_004,digest,personal,Normal message.,0.68,message_0064;message_0245;message_0063
+msg_030,digest,personal,User usually dismisses notifications.,0.7,message_0025;message_0050;message_0335
+msg_045,digest,personal,User usually dismisses notifications.,0.88,message_0146;message_0145
+msg_052,mute,spam,User frequently reports similar messages.,0.98,message_0159;message_0207;message_0208
+msg_009,digest,personal,User usually dismisses notifications.,0.8,message_0073;message_0074
+msg_071,digest,personal,Normal message.,0.8,message_0197;message_0198
+msg_016,digest,personal,User usually dismisses notifications.,0.7,message_0202;message_0184;message_0201
+msg_065,mute,promotion,User frequently reports similar messages.,0.98,message_0185;message_0186;message_0261
+msg_038,notify,urgent,Urgent message requiring immediate attention.,0.95,message_0131;message_0132
+msg_086,digest,personal,Normal message.,0.83,message_0222
+msg_014,digest,personal,User usually dismisses notifications.,0.7,message_0258;message_0083;message_0018
+msg_094,mute,promotion,User frequently reports similar messages.,0.98,none
+msg_029,mute,forward,Frequently forwarded message.,0.91,message_0049;message_0095;message_0390
+msg_105,mute,forward,Frequently forwarded message.,0.96,message_0373;message_0233
+msg_002,digest,personal,User usually dismisses notifications.,0.88,message_0003;message_0060;message_0170
+msg_010,digest,personal,Normal message.,0.75,message_0011;message_0076;message_0075
+msg_078,notify,urgent,Urgent message requiring immediate attention.,0.85,message_0211;message_0212
+msg_013,digest,promotion,Promotional message.,0.85,message_0081;message_0082
+msg_018,mute,forward,Frequently forwarded message.,0.88,message_0092;message_0091;message_0026
+msg_044,mute,scam,Possible phishing or scam message.,1.0,message_0144;message_0036;message_0143
+msg_032,digest,personal,User usually dismisses notifications.,0.83,message_0120;message_0119;message_0285
+msg_106,digest,personal,User usually dismisses notifications.,0.88,message_0377;message_0376;message_0234
+msg_006,digest,personal,Normal message.,0.78,message_0029;message_0129;message_0215
+msg_109,digest,personal,Normal message.,0.78,message_0237;message_0099;message_0151
+msg_108,mute,spam,User frequently reports similar messages.,0.98,message_0094;message_0236;message_0093
+msg_019,mute,spam,User frequently reports similar messages.,0.98,message_0094;message_0236;message_0093
+msg_088,digest,personal,User usually dismisses notifications.,0.7,message_0025;message_0050;message_0335
+msg_056,digest,personal,Normal message.,0.78,message_0123;message_0168;message_0241
+msg_027,digest,personal,Normal message.,0.8,message_0272;message_0033;message_0007
+msg_050,digest,personal,Normal message.,0.83,message_0155;message_0279;message_0156
+msg_083,digest,personal,User usually dismisses notifications.,0.88,message_0219
+msg_063,notify,urgent,Urgent message requiring immediate attention.,0.98,message_0181;message_0182
+msg_033,notify,urgent,Urgent message requiring immediate attention.,1.0,message_0121;message_0122
+msg_061,mute,forward,Frequently forwarded message.,0.81,message_0177;message_0194;message_0042
+msg_020,notify,urgent,Urgent message requiring immediate attention.,0.98,message_0049;message_0095;message_0390
+msg_017,digest,personal,User usually dismisses notifications.,0.7,message_0090;message_0089
+msg_058,mute,forward,Frequently forwarded message.,0.91,message_0123;message_0168;message_0241
+msg_026,mute,spam,User frequently reports similar messages.,0.98,message_0107;message_0108;message_0032
+msg_047,digest,personal,Normal message.,0.78,message_0237;message_0099;message_0151
+msg_046,mute,scam,Possible phishing or scam message.,0.88,message_0148;message_0147
+msg_042,digest,personal,Normal message.,0.78,message_0139;message_0140
+msg_079,mute,scam,Possible phishing or scam message.,1.0,message_0213;message_0199;message_0196
+msg_098,notify,urgent,Urgent message requiring immediate attention.,0.98,message_0359;message_0168;message_0226
+msg_037,digest,personal,Normal message.,0.78,message_0029;message_0129;message_0215
+msg_007,digest,personal,Normal message.,0.75,message_0070;message_0069
+msg_085,mute,spam,Business has many user reports.,1.0,message_0221
+msg_001,digest,personal,Normal message.,0.78,message_0057;message_0058;message_0240
+msg_021,digest,personal,Normal message.,0.78,message_0029;message_0129;message_0215
+msg_028,digest,promotion,Promotional message.,0.75,message_0034;message_0111;message_0112
+msg_012,mute,forward,Frequently forwarded message.,0.81,message_0080;message_0247;message_0079
+msg_064,digest,personal,User usually dismisses notifications.,0.7,message_0202;message_0184;message_0201
+msg_103,digest,personal,Normal message.,0.78,message_0231;message_0049;message_0390
+msg_031,digest,personal,Normal message.,0.83,message_0118;message_0117;message_0249
+msg_057,digest,personal,User usually dismisses notifications.,0.88,message_0003;message_0060;message_0170
+msg_087,digest,personal,User usually dismisses notifications.,0.7,message_0223;message_0204;message_0358
+msg_067,digest,personal,Normal message.,0.78,message_0029;message_0129;message_0215
+msg_039,digest,personal,User usually dismisses notifications.,0.83,message_0209;message_0133;message_0051
+msg_082,digest,personal,User usually dismisses notifications.,0.83,message_0218;message_0397
+msg_066,digest,promotion,Promotional message.,0.75,message_0187;message_0188
+msg_049,digest,personal,User usually dismisses notifications.,0.88,message_0153;message_0291;message_0154
+msg_015,mute,scam,Possible phishing or scam message.,1.0,message_0213;message_0199;message_0196
+msg_051,digest,promotion,Promotional message.,0.75,message_0157;message_0257;message_0104
+msg_097,notify,urgent,Urgent message requiring immediate attention.,0.98,message_0359;message_0168;message_0226
+msg_089,digest,personal,Normal message.,0.75,none
+msg_053,mute,forward,Frequently forwarded message.,0.78,message_0253;message_0161;message_0162
+msg_059,digest,personal,Normal message.,0.8,message_0213;message_0199;message_0196
+msg_024,digest,promotion,Promotional message.,0.75,message_0157;message_0257;message_0104
+msg_072,mute,scam,Possible phishing or scam message.,1.0,message_0213;message_0199;message_0196
+msg_036,digest,personal,User usually dismisses notifications.,0.8,message_0127;message_0128;message_0283
+msg_076,mute,spam,User frequently reports similar messages.,0.98,message_0159;message_0207;message_0208
+msg_055,notify,urgent,Urgent message requiring immediate attention.,1.0,message_0166;message_0165
+msg_102,digest,personal,User usually dismisses notifications.,0.88,message_0003;message_0060;message_0170
+msg_080,digest,personal,Normal message.,0.78,message_0029;message_0129;message_0215
+msg_093,mute,scam,Possible phishing or scam message.,1.0,none
+msg_034,notify,urgent,Urgent message requiring immediate attention.,0.98,message_0123;message_0168;message_0241
+msg_035,digest,personal,User usually dismisses notifications.,0.8,message_0125;message_0126;message_0281
+msg_101,digest,personal,User usually dismisses notifications.,0.88,message_0268;message_0370;message_0229
+msg_041,digest,personal,Normal message.,0.78,message_0138;message_0137
+msg_011,mute,forward,Frequently forwarded message.,0.91,message_0123;message_0168;message_0241
+msg_110,mute,scam,Possible phishing or scam message.,1.0,message_0238;message_0381
+msg_095,digest,personal,User usually dismisses notifications.,0.7,message_0202;message_0184;message_0201
+msg_074,mute,forward,Frequently forwarded message.,0.78,message_0223;message_0204;message_0358
+msg_073,notify,urgent,Urgent message requiring immediate attention.,0.85,message_0202;message_0184;message_0201
+msg_054,digest,personal,User usually dismisses notifications.,0.7,message_0164;message_0163
+msg_068,digest,personal,User usually dismisses notifications.,0.85,message_0191;message_0192
+msg_100,digest,personal,Normal message.,0.83,message_0118;message_0055;message_0227
+msg_062,mute,forward,Frequently forwarded message.,0.91,message_0029;message_0129;message_0215
+msg_096,digest,personal,User usually dismisses notifications.,0.88,none
+msg_043,mute,forward,Frequently forwarded message.,0.91,message_0029;message_0129;message_0215
+msg_077,digest,personal,User usually dismisses notifications.,0.83,message_0209;message_0133;message_0051
+msg_081,digest,personal,Normal message.,0.78,message_0217
+msg_025,digest,business_update,Verified business update.,0.93,message_0105;message_0106;message_0239
+msg_084,notify,payment,Trusted verified bank notification.,0.87,message_0220
+msg_022,digest,personal,Normal message.,0.78,message_0237;message_0099;message_0151
